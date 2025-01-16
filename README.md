@@ -1,4 +1,4 @@
-# Hackathon 2025: Build Digital Solutions for Social Good
+# Hackathon 2025: Name??
 
 Welcome to the Hackathon GitHub repository! This repo provides resources, challenges, and architecture templates to help you build impactful web or mobile applications.
 
